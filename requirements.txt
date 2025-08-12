@@ -1,0 +1,2 @@
+# No external Python packages required - uses built-in libraries and ffmpeg
+# Just ensure ffmpeg is installed on your system
